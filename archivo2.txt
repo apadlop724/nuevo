@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Eihh
+=======
+hola
+>>>>>>> otrarama

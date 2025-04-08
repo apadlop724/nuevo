@@ -1,3 +1,4 @@
 local
 rama defini
-desde local
+desde remoto
+

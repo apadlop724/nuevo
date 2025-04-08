@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Eihh
-=======
 hola
->>>>>>> otrarama
